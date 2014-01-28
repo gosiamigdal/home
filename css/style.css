@@ -1,12 +1,21 @@
+html {
+    background-color: #aaa;
+}
+
 /* Upper navbar styling */
+
+nav button .icon-bar {
+    background-color: #aaa;
+}
 
 .navbar {
     background-color: black;
     color: #eee;
 }
 
-nav button .icon-bar {
-    background-color: white;
+.navbar .nav a {
+    font-size: 130%;
+    color: #aaa;
 }
 
 .navbar .nav a:hover {
@@ -16,7 +25,17 @@ nav button .icon-bar {
     font-weight: normal;
 }
 
-.navbar .nav a {
-    font-size: 130%;
-     color: #aaa;
+#home {
+    background-color: #333;
+}
+
+.navbar-brand {
+    font-family: 'Alex Brush', cursive;
+    font-size: 240%;
+    color: #aaa;
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    color: #aaa;
 }
