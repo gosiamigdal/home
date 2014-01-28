@@ -4,6 +4,10 @@ body {
 
 /* Upper navbar styling */
 
+nav {
+    width: 100%;
+}
+
 nav button .icon-bar {
     background-color: #aaa;
 }
@@ -41,6 +45,8 @@ nav button .icon-bar {
 }
 
 
+/* Home page styling */
+
 
 #title {
     font-family: 'Exo 2', sans-serif;
@@ -49,13 +55,14 @@ nav button .icon-bar {
     font-size: 330%;
 }
 
-
 h2 {
     font-family: 'Exo 2', sans-serif;
     font-weight: 200;
 }
 
-
+.home-content {
+        margin-top: 7%;
+    }
 
 
 
