@@ -1,4 +1,4 @@
-html {
+body {
     background-color: #aaa;
 }
 
@@ -39,3 +39,24 @@ nav button .icon-bar {
 .navbar-brand:hover {
     color: #aaa;
 }
+
+
+
+#title {
+    font-family: 'Exo 2', sans-serif;
+    color: #400940;
+    font-weight: bold;
+    font-size: 330%;
+}
+
+
+h2 {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 200;
+}
+
+
+
+
+
+
