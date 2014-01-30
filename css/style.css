@@ -4,9 +4,6 @@ body {
 
 /* Upper navbar styling */
 
-nav {
-    width: 100%;
-}
 
 nav button .icon-bar {
     background-color: #aaa;
@@ -15,6 +12,8 @@ nav button .icon-bar {
 .navbar {
     background-color: black;
     color: #eee;
+    width: 100%;
+    margin-bottom: 0px;
 }
 
 .navbar .nav a {
@@ -29,7 +28,7 @@ nav button .icon-bar {
     font-weight: normal;
 }
 
-#home {
+.focus {
     background-color: #333;
 }
 
@@ -60,10 +59,49 @@ h2 {
     font-weight: 200;
 }
 
+html, body {
+    height: 100%;
+}
+
 .home-content {
-        margin-top: 7%;
+    margin-top: -50px;
+    padding-top: 50px;
+    height: 100%;
+}
+
+.home-text {
+    margin: 0 auto;
+    padding-top: 50px;
+    background-color: red;
+    min-height: 100%;
+    padding-bottom: 50px;
+
+}
+
+@media (min-width: 768px) {
+    .home-text {
+    width: 750px;
     }
+}
+
+@media (min-width: 992px) {
+    .home-text {
+    width: 970px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .home-text {
+    width: 1170px;
+    }
+}
 
 
+
+
+
+.footer {
+    margin-top: -50px;
+}
 
 
