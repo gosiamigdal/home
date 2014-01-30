@@ -72,10 +72,9 @@ html, body {
 .home-text {
     margin: 0 auto;
     padding-top: 50px;
-    background-color: red;
+    background-color: #e7e7e7;
     min-height: 100%;
     padding-bottom: 50px;
-
 }
 
 @media (min-width: 768px) {
@@ -96,12 +95,18 @@ html, body {
     }
 }
 
-
-
-
-
 .footer {
     margin-top: -50px;
 }
+
+.copyright {
+    font-size: 130%;
+    margin-top: 12px;
+    color: #aaa;
+}
+
+
+
+
 
 
