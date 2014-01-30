@@ -105,8 +105,18 @@ html, body {
     color: #aaa;
 }
 
+.main {
+    margin-top: 45px;
+}
+
+.project {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
 
 
-
+hr {
+    border-top: 1px solid black;
+}
 
 
