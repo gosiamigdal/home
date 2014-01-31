@@ -110,13 +110,29 @@ html, body {
 }
 
 .project {
-    margin-bottom: 50px;
-    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-top: 60px;
 }
 
 
 hr {
     border-top: 1px solid black;
 }
+
+.about-project {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.project-photo {
+    border-radius: 5px;
+}
+
+.project-descr {
+    text-align: justify;
+    font-size: 115%;
+    line-height: 27px;
+}
+
 
 
