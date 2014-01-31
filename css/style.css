@@ -120,7 +120,7 @@ hr {
 }
 
 .about-project {
-    margin-top: 0px;
+    margin-top: 10px;
     margin-bottom: 30px;
 }
 
@@ -134,5 +134,20 @@ hr {
     line-height: 27px;
 }
 
+@media  (max-width: 660px) {
+    .project-photo {
+        width: 92%;
+        height: 92%;
+    }
+}
+
+@media (max-width: 990px) {
+    .about-project {
+        margin-top: 25px;
+    }
+    .sfo {
+        margin-top: -50px;
+    }
+}
 
 
