@@ -151,3 +151,16 @@ hr {
 }
 
 
+.project-link {
+    color: black;
+    font-weight: bold;
+}
+
+.project-link:hover {
+    text-decoration: none;
+    color: #aaa;
+}
+
+
+
+
