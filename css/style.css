@@ -120,7 +120,6 @@ hr {
 }
 
 .about-project {
-    margin-top: 10px;
     margin-bottom: 30px;
 }
 
@@ -151,15 +150,7 @@ hr {
 }
 
 
-.project-link {
-    color: black;
-    font-weight: bold;
-}
 
-.project-link:hover {
-    text-decoration: none;
-    color: #aaa;
-}
 
 
 
