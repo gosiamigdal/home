@@ -59,6 +59,13 @@ h2 {
     font-weight: 200;
 }
 
+p {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 400;
+    font-size: 120%;
+    margin-bottom: 20px;
+}
+
 
 html, body {
     height: 100%;
@@ -161,4 +168,16 @@ hr {
     line-height: 27px;
 }
 
+#last {
+    margin-bottom: 35px;
+}
 
+
+.container a {
+    font-size: 130%;
+}
+
+
+#my-email {
+    margin-top: 30px;
+}
