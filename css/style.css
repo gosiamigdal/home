@@ -183,5 +183,14 @@ hr {
 }
 
 
+li.lista {
+    list-style-type: none;
+    line-height: 45px;
+    font-size: 130%;
+}
 
+.home-content .what-i-do {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
 
