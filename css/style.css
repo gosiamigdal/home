@@ -194,3 +194,16 @@ li.lista {
     margin-bottom: 20px;
 }
 
+
+#pills {
+    margin-top: 40px;
+}
+
+@media (max-width: 991px) {
+    #pills {
+        margin-top: 0px;
+    }
+}
+
+
+
