@@ -122,6 +122,14 @@ html, body {
     margin-top: 60px;
 }
 
+.project a {
+    color: black;
+}
+
+.project a:hover {
+    text-decoration: none;
+    color: #808080;
+}
 
 hr {
     border-top: 1px solid black;
@@ -139,6 +147,11 @@ hr {
     text-align: justify;
     font-size: 115%;
     line-height: 27px;
+}
+
+.project .sfo .project-descr a {
+    font-size: 100%;
+    color: #808080;
 }
 
 @media  (max-width: 660px) {
