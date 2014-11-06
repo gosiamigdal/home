@@ -222,5 +222,13 @@ li.lista {
     padding-top: 25px;
 }
 
+img.portrait {
+    width: 220px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
 
 
