@@ -64,6 +64,7 @@ p {
     font-weight: 400;
     font-size: 120%;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 
@@ -228,6 +229,10 @@ img.portrait {
     border: 1px solid black;
     margin-top: 50px;
     margin-bottom: 20px;
+}
+
+li p a:hover {
+    text-decoration: none;
 }
 
 
